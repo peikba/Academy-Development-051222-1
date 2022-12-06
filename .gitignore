@@ -1,0 +1,7 @@
+.vscode/.alcache/*.*
+.alpackages/*.app
+*.app
+.vscode/rad.json
+.vscode/launch.json
+.vscode/.altemplates/table.dictionary.json
+.vscode/.altemplates/table.entry.json
